@@ -1,0 +1,101 @@
+.title{
+	font-size: 25px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+.box{
+	height: 35px;
+	width: 315px;
+	background-color: #E8F3FA ;
+	margin: 0 auto;
+}
+.box h1{
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: grey;
+}
+
+
+.box-name{
+	height: 35px;
+	width: 315px;
+	border: blue;
+	background-color: #E8F3FA;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.box-name h1{
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: grey;
+}
+
+.title-bar{
+	color: red;
+	margin-left: 700px;
+	font-size: 9px;
+}
+
+.box-x{
+	height: 25px;
+	width: 80px;
+	background-color: #33FFE6;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.box-x h1{
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+.social-icon{
+	text-align: center;
+	margin-top: 30px;	
+}
+.social-icon ul li{
+	list-style: none;
+	display: inline-block;
+}
+.social-icon ul li a i{
+	font-size: 20px;
+	height: 60px;
+	width: 60px;
+	background-color: #154CEF;
+	border-radius: 50px;
+	color: white;
+	text-align: ;
+	font-size: 25px;
+	line-height: 60px;
+	margin-left: 25px;
+	transition: 0.7s;
+	
+
+}
+.social-icon ul li a i:hover{
+	background-color: red;
+	transition: 0.7s;
+}
+
+
+.title-bx{
+	text-align: center;
+	font-size: 10px;
+
+}
+.title-bx h1 h2{
+	display: inline-block;
+	text-align: center;
+}
+.box-a{
+	height: 25px;
+	width: 150px;
+	background-color: #33FFE6;
+	margin: 0 auto;
+	margin-top: 25px; 
+}
+.box-a h1{
+	font-size: 20px;
+	color: black;
+	text-align: center;	
+}
